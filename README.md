@@ -1,3 +1,6 @@
+# Unmaintened Project:
+ Use react-awesome-reveal instead (https://github.com/rnosov/react-reveal/issues/106)
+ 
 # React Reveal
 
 [React Reveal](https://www.react-reveal.com/) is
